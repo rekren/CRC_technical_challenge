@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	KRAS Signaling Up	2/200	7.218101e-03	4.330861e-02	0	0	1.817172e+01	8.960771e+01	CLEC4A;ETV4
+MSigDB_Hallmark_2020	Pancreas Beta Cells	1/40	2.569772e-02	5.393293e-02	0	0	4.262393e+01	1.560613e+02	GCK
+MSigDB_Hallmark_2020	Wnt-beta Catenin Signaling	1/42	2.696647e-02	5.393293e-02	0	0	4.054065e+01	1.464799e+02	SKP2
+MSigDB_Hallmark_2020	IL-2/STAT5 Signaling	1/199	1.219367e-01	1.225132e-01	0	0	8.328704e+00	1.752570e+01	ETV4
+MSigDB_Hallmark_2020	Hypoxia	1/200	1.225132e-01	1.225132e-01	0	0	8.286432e+00	1.739767e+01	GCK
+MSigDB_Hallmark_2020	E2F Targets	1/200	1.225132e-01	1.225132e-01	0	0	8.286432e+00	1.739767e+01	NUP107
